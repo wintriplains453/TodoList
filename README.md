@@ -1,6 +1,9 @@
 <<<<<<< HEAD
 # TodoList
 Небольшое приложения списка todo с функциями его сортировки 
+- написаное на React
+- TypeScript
+- С небольшим тестированием библиотеки Jest
 =======
 # Getting Started with Create React App
 
